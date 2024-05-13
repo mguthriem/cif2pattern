@@ -7,7 +7,7 @@ import os
 ##############################################################################
 # INSTRUCTIONS: 
 # 1) Open script in mantid workbench
-# 2) Configure below (lines 14 to 33)
+# 2) Configure below (lines 25 to 42)
 # 3) Execute script
 
 # Expected output: 
